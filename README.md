@@ -1,4 +1,3 @@
-# Mapa-arboles-Unimag
 <!DOCTYPE html>
 <html lang="es">
 <head>
